@@ -1,0 +1,15 @@
+[submodule "ULI"]
+	path = ULI
+	url = ./ULI
+[submodule "COM"]
+	path = COM
+	url = ./COM
+[submodule "CPP"]
+	path = CPP
+	url = ./CPP
+[submodule "IPC"]
+	path = IPC
+	url = ./IPC
+[submodule "APS"]
+	path = APS
+	url = ./APS
